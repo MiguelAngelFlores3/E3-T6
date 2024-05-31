@@ -1704,7 +1704,7 @@ El Método de la Cuadratura Gaussiana es una técnica de integración numérica 
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-<h1> <font color = "darkred" size="+5" font face = "cooper black"> <b> <i> <a name="TEMA 5"> TEMA 5 </a>  </i> </b> </font> </h1>
+<h1> <font color = "darkred" size="+5" font face = "cooper black"> <b> <i> <a name="TEMA 5 y 6"> TEMA 5 y 6 </a>  </i> </b> </font> </h1>
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 <h3 align = "center"> <font  font face = "bauhaus 93">  <a name="Descripción"> Descripción</a> </font> </h3>
