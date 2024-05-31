@@ -751,8 +751,6 @@ Error: 0.0001
 
 <h5> <font font face = "arial"> <b> <i> Corrida del programa. </i> </b> </h5>
 
+  ![newtonPto](https://github.com/rubivj13/Metodos_Numericos/assets/147438464/fd08d1b1-81f7-42f1-bb90-63378f45ccc9)
 
-<h5> <font font face = "arial"> <b> <i> Visualización de la raíz en GeoGebra. </i> </b> </h5>
-  
-  ![Captura newton](https://github.com/rubivj13/Metodos_Numericos/assets/147438464/6668835b-f928-4b66-9665-b42f00146e1c)
 
