@@ -854,14 +854,6 @@ z=1**
 
 ![Captura de pantalla 2024-03-14 083727](https://github.com/rubivj13/Metodos_Numericos_Tema-3/assets/147438464/25c8adaf-641e-49ca-9632-fd2420bfb9ce)
 
-
-Te invito a que puedas checar mis ejercicios para profundizar en la implementación: <a href="https://github.com/rubivj13/Metodos_Numericos_Tema-3/tree/main/Eliminaci%C3%B3n%20Gaussiana"> <font font face = "arial"> https://github.com/rubivj13/Metodos_Numericos_Tema-3/tree/main/Eliminaci%C3%B3n%20Gaussiana </font> </a>
-
-
-
-
-
-
 <h3 align = "center"> <font font face = "forte"> <a name="Método de Gauss-Jordan"> 2. Método de Gauss-Jordan </a> </h3>
 
 <h4> <font font face = "arial"> <a name="DescripciónGJ"> Descripción: </a> </h4>
@@ -1018,14 +1010,6 @@ Finalmente, convertimos al sistema convencional de ecuaciones:
 <h5> <font font face = "arial"> <b> <i> Ejecución del programa. </i> </b> </h5>
 
 ![Captura de pantalla 2024-03-14 095352](https://github.com/rubivj13/Metodos_Numericos_Tema-3/assets/147438464/bb217e66-ca29-432a-b56e-e63fc5af5931)
-
-
-Te invito a que puedas checar mis ejercicios para profundizar en la implementación: <a href="https://github.com/rubivj13/Metodos_Numericos_Tema-3/tree/main/M%C3%A9todo%20de%20Gauss-Jordan"> <font font face = "arial"> https://github.com/rubivj13/Metodos_Numericos_Tema-3/tree/main/M%C3%A9todo%20de%20Gauss-Jordan </font> </a>
-
-
-
-
-
 
 <h3 align = "center"> <font font face = "forte"> <a name="Método de Gauss-Seidel"> 3. Método de Gauss-Seidel </a> </h3>
 
@@ -1192,18 +1176,6 @@ Dado que se cumple la condición, el resultado es:
 
 ![Captura de pantalla 2024-03-14 142312](https://github.com/rubivj13/Metodos_Numericos_Tema-3/assets/147438464/9c7c3b9d-5947-4c85-9aa9-9164e5b76c88)
 
-
-
-Te invito a que puedas checar mis ejercicios para profundizar en la implementación: <a href="https://github.com/rubivj13/Metodos_Numericos_Tema-3/tree/main/M%C3%A9todo%20de%20Gauss-Seidel"> <font font face = "arial"> https://github.com/rubivj13/Metodos_Numericos_Tema-3/tree/main/M%C3%A9todo%20de%20Gauss-Seidel </font> </a>
-
-
-
-
-
-
-
-
-
 <h3 align = "center"> <font font face = "forte"> <a name="Método de Jacobi"> 4. Método de Jacobi </a> </h3>
 
 <h4> <font font face = "arial"> <a name="DescripciónJ"> Descripción: </a> </h4>
@@ -1327,4 +1299,3 @@ Para resolverlo podemos seguir los siguientes pasos:
 ![Captura de pantalla 2024-03-14 113337](https://github.com/rubivj13/Metodos_Numericos_Tema-3/assets/147438464/a6842b59-ba5e-4f50-be8a-4f888f32b80d)
 
 
-Te invito a que puedas checar mis ejercicios para profundizar en la implementación: <a href="https://github.com/rubivj13/Metodos_Numericos_Tema-3/tree/main/M%C3%A9todo%20de%20Jacobi"> <font font face = "arial"> https://github.com/rubivj13/Metodos_Numericos_Tema-3/tree/main/M%C3%A9todo%20de%20Jacobi </font> </a>
