@@ -117,18 +117,6 @@ El **Overflow** es un fenómeno que ocurre en la computación cuando un cálculo
 ![Captura de pantalla 2024-05-29 141302](https://github.com/rubivj13/MetodosNumericos_Tema6/assets/147438464/a850ac71-8c38-435a-b28e-d7ed0a668a13)
 
 
-
-
-Te invito a que puedas checar mis ejercicios para profundizar en la implementación: <a href="https://github.com/rubivj13/MetodosNumericos_Tema6/tree/master/Tema1/Overflow"> <font font face = "arial"> https://github.com/rubivj13/MetodosNumericos_Tema6/tree/master/Tema1/Overflow </font> </a>
-
-
-
-
-
-
-
-
-
 # <h3 align = "center"> <font font face = "forte"> <a name="Redondeo"> 2. Redondeo </a> </h3>
 
 <h4> <font font face = "arial"> <a name="DescripciónR"> Descripción. </a> </h4>
@@ -187,18 +175,6 @@ El **Redondeo** es una operación matemática que se utiliza para aproximar un n
 <h5> <font font face = "arial"> <b> <i> Ejecución del programa. </i> </b> </h5>
 
 ![Captura de pantalla 2024-05-29 141937](https://github.com/rubivj13/MetodosNumericos_Tema6/assets/147438464/a8872e7a-b88b-4e5c-858e-1e65d5b62fbc)
-
-
-
-
-
-Te invito a que puedas checar mis ejercicios para profundizar en la implementación: <a href="https://github.com/rubivj13/MetodosNumericos_Tema6/tree/master/Tema1/Redondeo"> <font font face = "arial"> https://github.com/rubivj13/MetodosNumericos_Tema6/tree/master/Tema1/Redondeo </font> </a>
-
-
-
-
-
-
 
 
 # <h3 align = "center"> <font font face = "forte"> <a name="Truncamiento"> 3. Truncamiento </a> </h3>
@@ -276,13 +252,6 @@ El **Redondeo** es una operación matemática que se utiliza para aproximar un n
 <h5> <font font face = "arial"> <b> <i> Ejecución del programa. </i> </b> </h5>
 
 ![Captura de pantalla 2024-05-29 142455](https://github.com/rubivj13/MetodosNumericos_Tema6/assets/147438464/f1a2b0af-9e7c-4f84-a7c9-010a13a73e43)
-
-
-
-
-
-
-Te invito a que puedas checar mis ejercicios para profundizar en la implementación: <a href="https://github.com/rubivj13/MetodosNumericos_Tema6/tree/master/Tema1/Truncamiento"> <font font face = "arial"> https://github.com/rubivj13/MetodosNumericos_Tema6/tree/master/Tema1/Truncamiento </font> </a>
 
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -439,9 +408,6 @@ Error: 0.0001
   ![Captura de pantalla 2024-02-29 222857](https://github.com/rubivj13/Metodos_Numericos/assets/147438464/035fc501-0729-4ff8-9c91-900f354df65a)
 
 
-Te invito a que puedas checar mis ejercicios para profundizar en la implementación: <a href="#[INDICE](https://github.com/rubivj13/Metodos_Numericos/tree/main/M%C3%A9todo%20de%20bisecci%C3%B3n)"> <font font face = "arial"> https://github.com/rubivj13/Metodos_Numericos/tree/main/M%C3%A9todo%20de%20bisecci%C3%B3n </font> </a>
-
-
 
 <h3 align = "center"> <font font face = "forte"> <a name="Método de la Falsa Posición"> 2. Método de la Falsa Posición </a> </h3>
 
@@ -559,15 +525,9 @@ Error: 0.0001
   ![Imagen de WhatsApp 2024-02-29 a las 21 23 35_14f59d0b](https://github.com/rubivj13/Metodos_Numericos/assets/147438464/3f97ba75-643d-4d6c-b0de-0c91d9e27208)
 
 
-
 <h5> <font font face = "arial"> <b> <i> Visualización de la raíz en GeoGebra. </i> </b> </h5>
   
 ![Captura de pantalla 2024-02-29 222857](https://github.com/rubivj13/Metodos_Numericos/assets/147438464/ff4d59e5-87b9-4cce-b9eb-a180f6f37302)
-
-
-   
-Te invito a que puedas checar mis ejercicios para profundizar en la implementación: <a href="#[[INDICE](https://github.com/rubivj13/Metodos_Numericos/tree/main/M%C3%A9todo%20de%20bisecci%C3%B3n)](https://github.com/rubivj13/Metodos_Numericos/tree/main/M%C3%A9todo%20de%20la%20falsa%20posici%C3%B3n)"> <font font face = "arial"> https://github.com/rubivj13/Metodos_Numericos/tree/main/M%C3%A9todo%20de%20la%20falsa%20posici%C3%B3n </font> </a>
-
 
 
 
@@ -687,12 +647,6 @@ Error: 0.0001
   ![Captura secante](https://github.com/rubivj13/Metodos_Numericos/assets/147438464/c15e9096-ce5d-4661-954c-e61b4e67d089)
 
 
-
-Te invito a que puedas checar mis ejercicios para profundizar en la implementación: <a href="#[[[INDICE](https://github.com/rubivj13/Metodos_Numericos/tree/main/M%C3%A9todo%20de%20bisecci%C3%B3n)](https://github.com/rubivj13/Metodos_Numericos/tree/main/M%C3%A9todo%20de%20la%20falsa%20posici%C3%B3n)](https://github.com/rubivj13/Metodos_Numericos/tree/main/M%C3%A9todo%20de%20la%20secante)"> <font font face = "arial"> https://github.com/rubivj13/Metodos_Numericos/tree/main/M%C3%A9todo%20de%20la%20secante </font> </a>
-
-
-
-
 <h3 align = "center"> <font font face = "forte"> <a name="Método de Newton-Raphson"> 4. Método de Newton-Raphson. </a> </h3>
    
 <h4> <font font face = "arial"> DESCRIPCIÓN: </h4>
@@ -798,16 +752,7 @@ Error: 0.0001
 <h5> <font font face = "arial"> <b> <i> Corrida del programa. </i> </b> </h5>
 
 
-
-
-
 <h5> <font font face = "arial"> <b> <i> Visualización de la raíz en GeoGebra. </i> </b> </h5>
   
   ![Captura newton](https://github.com/rubivj13/Metodos_Numericos/assets/147438464/6668835b-f928-4b66-9665-b42f00146e1c)
-
-
-
-Te invito a que puedas checar mis ejercicios para profundizar en la implementación: <a href="#[[[[INDICE](https://github.com/rubivj13/Metodos_Numericos/tree/main/M%C3%A9todo%20de%20bisecci%C3%B3n)](https://github.com/rubivj13/Metodos_Numericos/tree/main/M%C3%A9todo%20de%20la%20falsa%20posici%C3%B3n)](https://github.com/rubivj13/Metodos_Numericos/tree/main/M%C3%A9todo%20de%20la%20secante)](https://github.com/rubivj13/Metodos_Numericos/tree/main/M%C3%A9todo%20de%20Newton%20Raphson)"> <font font face = "arial"> https://github.com/rubivj13/Metodos_Numericos/tree/main/M%C3%A9todo%20de%20Newton%20Raphson </font> </a>
-
-
 
